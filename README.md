@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm DILIP KUMAR</h1>
 
 - 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
-- <h1>MERN STACK DEVELOPER</h1
+- <p>MERN STACK DEVELOPER</p>
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: axiftaj@gmail.com
 - 😄 My website: https://thetechbrothers.net
