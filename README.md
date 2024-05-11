@@ -3,8 +3,8 @@
 - 🔭 I’m currently XTeam Consultants India Pvt. Ltd.
 - <p>MERN STACK DEVELOPER</p>
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
+- 📫 How to reach me: dilip.879572@gmail.com
+- 😄 My website: wating
 - ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
